@@ -1,18 +1,23 @@
-# 6-2-JS-Drawing-More-Shapes-with-Code
+# 6-1-JS-Making-Drawings-with-Code
 
 ## Video
-[Video](https://youtu.be/Lf-F-VYz81Y) <-- Make sure to watch this video first
+[Video](https://youtu.be/D5HQw_GKOwo) <-- Make sure to watch this video first
 
 ## Directions 
-### Step #1 - Draw the ground <br>
-We've drawn a snowperson like you made in the first challenge, and now you're going to draw more shapes using the commands you just learned.         
+### Step #1 - The bottom <br>
+In this challenge, you'll draw a snowperson using the `ellipse()` command.        
 <br>
-In this first step, use the  `rect()`  command to draw the ground, so that the snowperson isn't just floating in air. You should add your  `rect()`  command before the  `ellipse()`  commands for the snowperson, so that the snowperson looks like he is in front of the ground.       
+Start off by making a circle, for the bottom of the snowperson, with an `ellipse()` command. This should be the first `ellipse()` command in your program.        
 <br>
-### Step #2 - Make him wave! <br>
-Now you'll make it look like the snowperson is waving by adding arms on both sides of his body, using the  `line()`  command.        
+### Step #2 - The middle <br>
+Now draw a second circle, for the middle of your snowperson, using another `ellipse()` command. This should be the second `ellipse()` command in your program.    
 <br>
-You will need to add two  `line()`  commands, one for each arm. You should add your  `line()`  commands after the  `ellipse()`  commands for the snowperson, so that the arms look like they are in front of the snowperson. 
+Make sure that your second circle is a little smaller than the bottom circle, and that it sits on top of the bottom circle.    
 <br>
-### Step #3 - Play! <br>
-Add other elements to your snowperson scene.
+### Step #3 - The head <br>
+Now draw a third circle, for the head of your snowperson, using another `ellipse()` command. This should be the third `ellipse()` command in your program.        
+<br>
+Make sure that your third circle is a little smaller than the middle circle, and that it sits on top of the middle circle, because that's what heads do. 
+<br>
+### Step #4 - Play! <br>
+Add other elements to your snowmperson scene.
